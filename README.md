@@ -46,7 +46,7 @@ https://github.com/sknsht/HackerRank
 - 😄 Pronouns: ...-->
 
 
-- 🌱 I’m currently learning **Front-End Developer**
+- 🌱 I’m currently learning **Data Analysis**
 - 👯 I’m looking to collaborate on **Web developer**
 - 🤔 I’m looking for help with **Competitive Programming**
 <!-- - 🥅 2021 Goals: Contribute to **Open Source projects** -->
